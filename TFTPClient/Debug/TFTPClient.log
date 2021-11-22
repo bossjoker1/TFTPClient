@@ -1,0 +1,23 @@
+﻿  源.cpp
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\client.h(13,1): warning C4005: “ERROR”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : 参见“ERROR”的前一个定义
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(38,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(88,11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(91,44): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(143,9): warning C4101: “temp”: 未引用的局部变量
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(141,6): warning C4101: “curtime”: 未引用的局部变量
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(243,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(222,9): warning C4101: “temp”: 未引用的局部变量
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(220,6): warning C4101: “curtime”: 未引用的局部变量
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(265,31): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(267,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(271,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(274,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(322,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(345,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(363,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(368,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(403,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\作业\计算机网络\计算机网络实验\TFTPClient\TFTPClient\源.cpp(407,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TFTPClient.vcxproj -> D:\作业\计算机网络\计算机网络实验\TFTPClient\Debug\TFTPClient.exe
